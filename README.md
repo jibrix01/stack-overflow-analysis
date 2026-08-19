@@ -1,6 +1,5 @@
 # Developer Pay and Job Satisfaction: A 2024 Stack Overflow Survey Analysis
-
-This repository contains a regression analysis of developer compensation and job satisfaction.
+A case study using exploratory data analysis and machine learning to analyze the relationship between developer pay, job satisfaction, and other developer statistics.
 
 ## Data
 The raw data comes from the 2024 Stack Overflow Developer Survey. It covers 65,437 respondents across 185 countries. The dataset is released under the Open Database License.
