@@ -5,7 +5,7 @@ This repository contains a regression analysis of developer compensation and job
 ## Data
 The raw data comes from the 2024 Stack Overflow Developer Survey. It covers 65,437 respondents across 185 countries. The dataset is released under the Open Database License.
 
-**Note:** The dataset itself is not included in this repository. 
+**Note:** The dataset itself is not included in this repository, exceeded file limits.
 
 ## Tools
 * Python
