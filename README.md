@@ -1,4 +1,4 @@
-# Stack, or where you're Stacked?: A 2024 Stack Overflow Survey Analysis
+# Stack, or Where you're Stacked?: A 2024 Stack Overflow Survey Analysis
 
 A case study using exploratory data analysis and machine learning to analyze the relationship between developer pay, job satisfaction, and other developer statistics.
 
